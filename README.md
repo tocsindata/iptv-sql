@@ -1,5 +1,5 @@
-# iptv-news
-IPTV News Channels SQL export
+# iptv-sql
+IPTV Channels SQL export
 
 
 Extracted from https://github.com/iptv-org/iptv
